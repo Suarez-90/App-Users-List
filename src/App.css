@@ -11,6 +11,9 @@ main {
 table {
   width: 100%;
 }
+table thead th:hover {
+  cursor: pointer;
+}
 .card {
   padding: 2em;
 }
